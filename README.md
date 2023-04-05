@@ -1,1 +1,3 @@
-# dsa-design-preparation
+# DSA & Design Preparation Guide
+
+Personal Guide for Interview Preparation related things.
